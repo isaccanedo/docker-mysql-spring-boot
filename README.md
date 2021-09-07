@@ -7,7 +7,7 @@ Comando para executar o contêiner mysq
 2. No aplicativo Spring Boot, use o mesmo nome de contêiner da instância mysql em application.properties
 `spring.datasource.url = jdbc:mysql://mysql-standalone:3306/test`
 
-3. Create a `Dockerfile` for creating a docker image from the Spring Boot Application
+3. Criar um `Dockerfile` for creating a docker image from the Spring Boot Application
 `FROM openjdk:8
 ADD target/users-mysql.jar users-mysql.jar
 EXPOSE 8086
