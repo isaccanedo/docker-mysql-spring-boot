@@ -14,7 +14,7 @@ EXPOSE 8086
 ENTRYPOINT ["java", "-jar", "users-mysql.jar"]`
 
 4. Usando o Dockerfile, crie a imagem do Docker.
-From the directory of Dockerfile - `docker build . -t users-mysql`
+Do diretório do Dockerfile - `docker build . -t users-mysql`
 
 5. Run the Docker image (users-mysql) created in #4.
 `docker build . -t users-mysql`
