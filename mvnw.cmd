@@ -1,5 +1,5 @@
 @REM ----------------------------------------------------------------------------
-@REM Licenciado
+@REM Licenciado para a
 @REM or more contributor license agreements.  See the NOTICE file
 @REM distributed with this work for additional information
 @REM regarding copyright ownership.  The ASF licenses this file
