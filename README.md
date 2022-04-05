@@ -1,4 +1,4 @@
-# Spring Boot no Docker conectando-se ao contêiner do MySQL Docker
+# Docker conectando-se ao contêiner do MySQL Docker
 
 1. Use a imagem MySQL publicada por Docker Hub (https://hub.docker.com/_/mysql/)
 Comando para executar o contêiner mysq
